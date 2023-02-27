@@ -1,0 +1,2 @@
+# CityGML-Room-Importer
+CityGMLクラスのRoomの部屋名と形状をRhinocerosに書き出すためのGrasshopperファイルです
